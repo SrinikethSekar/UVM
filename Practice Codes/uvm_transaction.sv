@@ -33,6 +33,7 @@ module tb();
 
 endmodule
 
+
 // UVM_INFO testbench.sv(14) @ 1: reporter [Randomize] [1]a=10
 // UVM_INFO testbench.sv(14) @ 2: reporter [Randomize] [2]a=10
 // UVM_INFO testbench.sv(14) @ 3: reporter [Randomize] [3]a=15
